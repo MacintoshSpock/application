@@ -1,0 +1,18 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.gitignore": true,
+        "**/*.gitattributes": true,
+        "**/*package-lock.json": true,
+        "**/*package.json": true,
+        "**/*.browserslistrc": true,
+        "**/*.eslintrc.js": true,
+        "**/*postcss.config.js": true,
+        "**/*babel.config.js": true,
+        "**/*README.md": true
+    }
+}
